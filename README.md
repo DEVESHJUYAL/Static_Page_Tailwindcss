@@ -1,3 +1,12 @@
+![image](https://github.com/DEVESHJUYAL/Static_Page_Tailwindcss/assets/91122298/ea4de2d9-23be-44f4-a9e2-ae843904632c)
+
+![image](https://github.com/DEVESHJUYAL/Static_Page_Tailwindcss/assets/91122298/7babfbe2-f8e8-484a-9a56-58cda8132c06)
+
+![image](https://github.com/DEVESHJUYAL/Static_Page_Tailwindcss/assets/91122298/0892aee1-f15c-41f8-86e3-cfc4bd8c7e1b)
+
+![image](https://github.com/DEVESHJUYAL/Static_Page_Tailwindcss/assets/91122298/1cc11bfb-645c-4040-8ede-bd4ef9164d55)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
